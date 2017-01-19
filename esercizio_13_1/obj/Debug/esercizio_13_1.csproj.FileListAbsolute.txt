@@ -1,1 +1,8 @@
 E:\manu\repo\compiti-c\esercizio_13_1\esercizio_13_1\bin\Debug\esercizio_13_1.exe.config
+E:\manu\repo\compiti-c\esercizio_13_1\esercizio_13_1\bin\Debug\esercizio_13_1.exe
+E:\manu\repo\compiti-c\esercizio_13_1\esercizio_13_1\bin\Debug\esercizio_13_1.pdb
+E:\manu\repo\compiti-c\esercizio_13_1\esercizio_13_1\obj\Debug\esercizio_13_1.csprojResolveAssemblyReference.cache
+E:\manu\repo\compiti-c\esercizio_13_1\esercizio_13_1\obj\Debug\esercizio_13_1.Properties.Resources.resources
+E:\manu\repo\compiti-c\esercizio_13_1\esercizio_13_1\obj\Debug\esercizio_13_1.csproj.GenerateResource.Cache
+E:\manu\repo\compiti-c\esercizio_13_1\esercizio_13_1\obj\Debug\esercizio_13_1.exe
+E:\manu\repo\compiti-c\esercizio_13_1\esercizio_13_1\obj\Debug\esercizio_13_1.pdb

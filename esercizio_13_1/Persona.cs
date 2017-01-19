@@ -19,7 +19,8 @@ namespace esercizio_13_1
         {
             set
             {
-                if (anni <= 0) anni = 1;
+                if (value <= 0) value = 1;
+                _anni = value;
             }
             get
             { return _anni; }
@@ -29,21 +30,21 @@ namespace esercizio_13_1
         {
             get
             {
-                return nome + cognome + anni;
+                return nome + cognome + anni.ToString();
             }
         }
 
         public Persona(string nome, string cognome, int anni)
         {
-            _nome = nome;
-            _cognome = cognome;
-            _anni = anni;
+            this.nome = nome;
+            this.cognome = cognome;
+            this.anni = anni;
         }
 
         public virtual string describe()
         {
-            string output = "NOME : " + nome + "\r\n"
-                  + "COGNOME : " + cognome + "\r\n"
+            string output = "NOME : " + nome + System.Environment.NewLine
+                  + "COGNOME : " + cognome + System.Environment.NewLine
                   + "ANNI : " + anni;
             return output;
         }

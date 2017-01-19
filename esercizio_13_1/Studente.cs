@@ -17,9 +17,8 @@ namespace esercizio_13_1
 
         public override string describe()
         {
-            string output = describe() + "\r\n"
+            return base.describe() + System.Environment.NewLine
                             + "SEZIONE : " + sezione;
-            return output;
         }
     }
 }
